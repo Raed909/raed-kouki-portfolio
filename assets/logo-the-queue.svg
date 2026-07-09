@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="220" viewBox="0 0 360 220" role="img" aria-labelledby="title desc">
+  <title id="title">The Queue</title>
+  <desc id="desc">Visuel de marque local pour The Queue</desc>
+  <rect width="360" height="220" rx="26" fill="#09111f"/>
+  <circle cx="104" cy="92" r="26" fill="#00a39b"/>
+  <circle cx="164" cy="92" r="26" fill="#2f6fed"/>
+  <circle cx="224" cy="92" r="26" fill="#f1a93b"/>
+  <path d="M96 136h160" fill="none" stroke="#ffffff" stroke-width="11" stroke-linecap="round"/>
+  <path d="M96 160h94" fill="none" stroke="#7dded8" stroke-width="8" stroke-linecap="round"/>
+  <text x="180" y="194" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800">THE QUEUE</text>
+</svg>

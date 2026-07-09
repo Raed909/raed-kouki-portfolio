@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="220" viewBox="0 0 360 220" role="img" aria-labelledby="title desc">
+  <title id="title">Renault Group</title>
+  <desc id="desc">Visuel de marque local pour Renault Group</desc>
+  <rect width="360" height="220" rx="26" fill="#ffffff"/>
+  <rect x="1" y="1" width="358" height="218" rx="25" fill="none" stroke="#dfe6ef" stroke-width="2"/>
+  <path d="M180 36l58 74-58 74-58-74z" fill="none" stroke="#111827" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M180 66l34 44-34 44-34-44z" fill="none" stroke="#f6c84c" stroke-width="12" stroke-linejoin="round"/>
+  <text x="180" y="196" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800">RENAULT GROUP</text>
+</svg>
